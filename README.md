@@ -49,4 +49,4 @@
 <br/>
 <br/>
 
-Click on [this](https://github.com/fitria-dwi/Home-Credit-Score-Card-Model/blob/main/Home%20Credit%20Score%20Card%20Model.ipynb) if you would like to go further to the notebook.
+Click on [this](https://github.com/RafifNauval12/Home-Credit-Score-Card-Model/blob/main/Home_Credit_Score_Card.ipynb) if you would like to go further to the notebook.
